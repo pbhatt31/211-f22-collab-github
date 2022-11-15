@@ -21,11 +21,19 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void ewong25_pbhatt31()
+{
+    printf("Pritika Bhattacharya and Ethan Wong\n");
+    printf("We cound out that git rm is the command for removing files individually or a collection of them from the index and the working and current directory!");
+}
+
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
+    ewong25_pbhatt31();
     
     return 0;
 }
